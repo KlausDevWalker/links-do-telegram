@@ -2,7 +2,7 @@
 Repositório de compartilhamento de links de grupos e canais do Telegram de assuntos variados.  
  
 #### Status do projeto: ATIVO
-#### Quantidade de links até o momento: 757 (386 grupos e 371 canais)
+#### Quantidade de links até o momento: 816 (405 grupos e 414 canais)
 
 ---
 
@@ -45,10 +45,12 @@ Logo abaixo você vai encontrar os links em ordem alfabética, com os canais mar
 Como esse repositório é resultado de um esforço em conjunto pra "ampliar os horizontes" do que o Telegram pode oferecer, você encontrará chats de assuntos bem variados (ainda que legais juridicamente) que talvez incomodem sua consciência. O que posso garantir é que nunca fará parte deste repositório assuntos como pornografia, apologia à violência, drogas, etc. De qualquer forma, me reservo o direito de excluir qualquer chat que não achar ser convenientes ao objetivo deste repositório, afim de evitar abusos.
 
 # Links
+https://t.me/a_gibiteca  
 https://t.me/abc_js  
 https://t.me/acervocursos (C)  
 https://t.me/AcervoDoSam (C)  
 https://t.me/AcervoHackerBR (C)  
+https://t.me/acervosupremo  
 https://t.me/adsestacio  
 https://t.me/adsrp  
 https://t.me/ai_python_en (C)  
@@ -63,13 +65,19 @@ https://t.me/AmanoTeam (C)
 https://t.me/amazing_python3 (C)  
 https://t.me/Amazon_Bin (C)  
 https://t.me/amharicpy  
+https://t.me/amigosabordobrasil  
 https://t.me/Amigosdogabs (C)  
 https://t.me/AnaliseDesenvolvimentoDeSistemas  
 https://t.me/anarchy_linux  
 https://t.me/android_hub (C)  
+https://t.me/android_romsbr (C)  
 https://t.me/AndroidBRAZUKA  
 https://t.me/androiddeveu (C)  
 https://t.me/angularBrasil  
+https://t.me/AniMemesNyan (C)  
+https://t.me/AnimesAniCat (C)  
+https://t.me/animesjogos  
+https://t.me/AnimesKetsu (C)  
 https://t.me/app_telegraph (C)  
 https://t.me/aprendapython  
 https://t.me/aquienalata (C)  
@@ -89,6 +97,7 @@ https://t.me/beatyourbit (C)
 https://t.me/BemVindoAMatrixv2  
 https://t.me/BestOfTelegramdotcom (C)  
 https://t.me/BGramOfficial  
+https://t.me/billieeilishbra (C)  
 https://t.me/Binance_Telegram (C)  
 https://t.me/blogcomputacao (C)  
 https://t.me/blogdoedivaldo (C)  
@@ -114,6 +123,7 @@ https://t.me/Bots_Uteis (C)
 https://t.me/BotsArchive (C)  
 https://t.me/BotsChannel (C)  
 https://t.me/botsChat  
+https://t.me/botseng (C)  
 https://t.me/BotTalk  
 https://t.me/BR_Telegram (C)  
 https://t.me/brainpowerbr (C)  
@@ -124,14 +134,17 @@ https://t.me/C_user
 https://t.me/C0D3BA5E (C)  
 https://t.me/CalsiBotDev (C)  
 https://t.me/canaisegrupos (C)  
+https://t.me/canaisegruposBr (C)  
 https://t.me/canalegua (C)  
 https://t.me/CanalGemeasdoingles (C)  
 https://t.me/canaloficinadanet (C)  
 https://t.me/canalrenova (C)  
 https://t.me/Canaltech_Oficial (C)  
+https://t.me/cartasdeamor (C)  
 https://t.me/cas_discussion  
 https://t.me/catalogo_whatsapp_e_telegram  
 https://t.me/cbse11python (C)  
+https://t.me/centraldosapksgrupo  
 https://t.me/ChannelBros  
 https://t.me/ChannelHash (C)  
 https://t.me/ChannelHashChat  
@@ -172,6 +185,7 @@ https://t.me/computer_soft_copy
 https://t.me/computer_vision_python (C)  
 https://t.me/ComputerScientistBr  
 https://t.me/comunidadefedorabrasil  
+https://t.me/COnline21 (C)  
 https://t.me/contest (C)  
 https://t.me/contests  
 https://t.me/coolhunt (C)  
@@ -202,6 +216,7 @@ https://t.me/danielscottoficial (C)
 https://t.me/danmorris (C)  
 https://t.me/Dark_Hacker_X (C)  
 https://t.me/darkcoding (C)  
+https://t.me/DARKROMS (C)  
 https://t.me/dartbrasil  
 https://t.me/dartlang_group  
 https://t.me/datascience_all (C)  
@@ -214,6 +229,7 @@ https://t.me/denobrasil
 https://t.me/designers (C)  
 https://t.me/desktop (C)  
 https://t.me/desktopThemes (C)  
+https://t.me/dev_meme (C)  
 https://t.me/dev_useful_stuff (C)  
 https://t.me/dev_WordPress  
 https://t.me/devchampions (C)  
@@ -246,17 +262,24 @@ https://t.me/Dr_Paulo_Mendes_Jr_Telegram (C)
 https://t.me/dragonmachinedreams (C)  
 https://t.me/durov (C)  
 https://t.me/easypythonlearn (C)  
+https://t.me/ebooksepub (C)  
 https://t.me/edurekaupdates (C)  
 https://t.me/eguatech  
+https://t.me/elearninglinks (C)  
 https://t.me/electronJs_BR  
 https://t.me/Eletronica_em_foco  
 https://t.me/EmpregosTIBrasil (C)  
+https://t.me/EMULADOR (C)  
 https://t.me/eng_comp_a  
 https://t.me/engenharia_da_computacao  
 https://t.me/enGroupHelp (C)  
+https://t.me/espaconostalgico (C)  
 https://t.me/essentialpython  
 https://t.me/estudantelinux  
 https://t.me/estude (C)  
+https://t.me/etdevs  
+https://t.me/etdevsofftopic  
+https://t.me/etdevsresource (C)  
 https://t.me/etherbr  
 https://t.me/ethfdsgroup  
 https://t.me/ethicalhackx (C)  
@@ -271,6 +294,7 @@ https://t.me/fedora
 https://t.me/Fedora_L10n_pt_BR  
 https://t.me/fedorabr  
 https://t.me/fedoranews (C)  
+https://t.me/filmescompipoca (C)  
 https://t.me/flutter_app  
 https://t.me/flutter_es  
 https://t.me/Flutter_SP  
@@ -321,8 +345,13 @@ https://t.me/galerapythondevops
 https://t.me/Garoa_PythonLab  
 https://t.me/gatsby_js  
 https://t.me/gcpbrasil  
+https://t.me/GDO202 (C)  
 https://t.me/geekschannel (C)  
 https://t.me/geeksChat  
+https://t.me/GERACAOMANCHETE  
+https://t.me/Gibis_mais (C)  
+https://t.me/gibise (C)  
+https://t.me/gibiteca (C)  
 https://t.me/GitBrasil  
 https://t.me/githubtrending (C)  
 https://t.me/gnugraf (C)  
@@ -333,9 +362,12 @@ https://t.me/good_coders
 https://t.me/GroupDarkinside  
 https://t.me/grouplus  
 https://t.me/grupo_python  
+https://t.me/GrupoAniCat  
+https://t.me/grupocinepipocatelegram  
 https://t.me/GrupoClubedeVagas (C)  
 https://t.me/grupoextremo (C)  
 https://t.me/grupoGNUGRAF  
+https://t.me/grupomemesaki  
 https://t.me/grupooficina  
 https://t.me/GrupoProgramandoeComentando  
 https://t.me/grupoproximonivel  
@@ -377,6 +409,7 @@ https://t.me/hipstersbackend (C)
 https://t.me/hipstersdatascience (C)  
 https://t.me/hipstersfrontend (C)  
 https://t.me/hipstersinovacao (C)  
+https://t.me/historiaeafins (C)  
 https://t.me/hkprojects (C)  
 https://t.me/HN_telegram (C)  
 https://t.me/hpxlist (C)  
@@ -386,6 +419,7 @@ https://t.me/i_know_python (C)
 https://t.me/ico_ton_telegram (C)  
 https://t.me/ideiashacks (C)  
 https://t.me/ihateregex  
+https://t.me/illustrations_i (C)  
 https://t.me/ilovecode_bot  
 https://t.me/InfoLine (C)  
 https://t.me/informaticatotal (C)  
@@ -415,7 +449,9 @@ https://t.me/javascripto
 https://t.me/JavascriptRaiz  
 https://t.me/Jobs4IT  
 https://t.me/JobsDevOps  
+https://t.me/JOGOSANDROIDOFICIAL (C)  
 https://t.me/JoinMbeast (C)  
+https://t.me/jornaiserevistas (C)  
 https://t.me/jquerybr  
 https://t.me/jsbrasiloficial  
 https://t.me/jssotop (C)  
@@ -434,6 +470,7 @@ https://t.me/KuCoin_Telegram_Competition
 https://t.me/learn_hacking_ethical (C)  
 https://t.me/learn_python_machine_learning (C)  
 https://t.me/learn_python358 (C)  
+https://t.me/learnandroideasily (C)  
 https://t.me/learnhexer  
 https://t.me/legendas_python_selenium  
 https://t.me/letstalkprogramming  
@@ -451,8 +488,11 @@ https://t.me/LinuxMintBrasil
 https://t.me/LinuxParaTodos  
 https://t.me/LinuxPovaoCanal (C)  
 https://t.me/listas1k (C)  
+https://t.me/literaturaeafins (C)  
 https://t.me/livepython  
+https://t.me/livrosepubpdf (C)  
 https://t.me/LogicProgrammingChan (C)  
+https://t.me/loveAL2 (C)  
 https://t.me/lovetoprogram (C)  
 https://t.me/luckydonaldsbots (C)  
 https://t.me/MachineLearning_Python (C)  
@@ -461,29 +501,37 @@ https://t.me/MachineLearningUsingPython
 https://t.me/MachoModaTelegram (C)  
 https://t.me/macos_stable_updates_files (C)  
 https://t.me/madeinshellctf  
+https://t.me/MangasGram (C)  
 https://t.me/Manjaro  
 https://t.me/manualdousuario (C)  
 https://t.me/maratonabrasil  
+https://t.me/materiaisdeidiomas (C)  
 https://t.me/mba_books (C)  
 https://t.me/MCTime (C)  
 https://t.me/mefitihediscussion  
 https://t.me/megacursos (C)  
+https://t.me/MegaPack (C)  
 https://t.me/MelhoresCanais (C)  
 https://t.me/ml_data  
 https://t.me/ml_world (C)  
 https://t.me/Mod_Pirated_ApkS (C)  
 https://t.me/MontyPythonCollection (C)  
+https://t.me/movie (C)  
+https://t.me/mundo_anime2 (C)  
 https://t.me/mundoCSS (C)  
 https://t.me/mundoJS (C)  
 https://t.me/MundoTech (C)  
 https://t.me/MundoTechBR (C)  
+https://t.me/musicasdosanos80s  
 https://t.me/myanygroups (C)  
+https://t.me/NarutogrupoBR  
 https://t.me/nest4code (C)  
 https://t.me/netflix_hindi_web_series (C)  
 https://t.me/newestbots (C)  
 https://t.me/newestchannels (C)  
 https://t.me/newestgroups (C)  
 https://t.me/neweststickers (C)  
+https://t.me/newsbrasileirao (C)  
 https://t.me/newschannel (C)  
 https://t.me/newschat  
 https://t.me/nigeriantelegram (C)  
@@ -493,6 +541,7 @@ https://t.me/nixosbr
 https://t.me/NodeBR  
 https://t.me/NodejsBR  
 https://t.me/NoHelloMe (C)  
+https://t.me/odbots (C)  
 https://t.me/odin_python  
 https://t.me/OfficialPromotion (C)  
 https://t.me/officialtelegrampromotion (C)  
@@ -503,6 +552,7 @@ https://t.me/Oficinadebots
 https://t.me/oinimigo  
 https://t.me/olhardigitalnews (C)  
 https://t.me/omgubuntu (C)  
+https://t.me/OnePiece_Brasil  
 https://t.me/opencv_python_cpp (C)  
 https://t.me/oslackjeff  
 https://t.me/osprogramadores  
@@ -520,10 +570,15 @@ https://t.me/Phantasm_Lab (C)
 https://t.me/pinguimcriativo (C)  
 https://t.me/placement_0 (C)  
 https://t.me/planetkde (C)  
+https://t.me/playmusicas03  
 https://t.me/PodProgramar  
 https://t.me/PolitistChannel (C)  
 https://t.me/pooltalks (C)  
+https://t.me/PortalFilmesHD (C)  
+https://t.me/PortalFilmesPlay (C)  
+https://t.me/Portalinfo (C)  
 https://t.me/portalsafira (C)  
+https://t.me/PortalSeries (C)  
 https://t.me/potilivre  
 https://t.me/powershellbr  
 https://t.me/powershellguido  
@@ -550,6 +605,8 @@ https://t.me/programming_courses (C)
 https://t.me/programming2306 (C)  
 https://t.me/programming502 (C)  
 https://t.me/programmingBuddyClubChat  
+https://t.me/programminginc  
+https://t.me/programmingincpp_official  
 https://t.me/ProgrammingOnly  
 https://t.me/ProgrammingOnlyChannel (C)  
 https://t.me/ProgrammingTip (C)  
@@ -662,6 +719,7 @@ https://t.me/reactjs_br
 https://t.me/real_discount (C)  
 https://t.me/realuncopy  
 https://t.me/regexbrasil  
+https://t.me/ReinoDoceh  
 https://t.me/renzoprocast  
 https://t.me/ricos_discussions  
 https://t.me/RobomizChannel (C)  
@@ -748,6 +806,7 @@ https://t.me/TudoGram (C)
 https://t.me/TurboGroup_Brz  
 https://t.me/TurboGroup_En  
 https://t.me/TurboTel (C)  
+https://t.me/tvserienews (C)  
 https://t.me/ubuntubrasil (C)  
 https://t.me/UbuntuBrasilOficial  
 https://t.me/udemy_coursera_java_python_free (C)  
@@ -777,12 +836,15 @@ https://t.me/vuejsbrasil
 https://t.me/vuetifybr  
 https://t.me/wagnertaboada (C)  
 https://t.me/wagtail  
+https://t.me/WALLAPPS (C)  
 https://t.me/webdesignfreebies (C)  
 https://t.me/webdev_eng (C)  
 https://t.me/webdevbr  
 https://t.me/webdevbrasil  
 https://t.me/WeirdMachines (C)  
 https://t.me/WhatsApp_Stickers (C)  
+https://t.me/whitehat (C)  
+https://t.me/wildriftBr_asil  
 https://t.me/windowmanagerbrasil  
 https://t.me/wizardcfc (C)  
 https://t.me/wmawesome  
@@ -801,7 +863,7 @@ https://t.me/yofreesamples (C)
 https://t.me/YourSmartyBro (C)  
 https://t.me/Zabbix_in_Telegram (C)  
 https://t.me/ZbxTg  
-https://t.me/ZealPy (C)
+https://t.me/ZealPy (C)  
 
 # Licença
 
