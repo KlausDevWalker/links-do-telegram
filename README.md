@@ -2,7 +2,7 @@
 Repositório de compartilhamento de links de grupos e canais do Telegram de assuntos variados.  
  
 #### Status do projeto: ATIVO
-#### Quantidade de links até o momento: 816 (405 grupos e 414 canais)
+#### Quantidade de links até o momento: 836 (406 grupos e 430 canais)
 
 ---
 
@@ -84,6 +84,7 @@ https://t.me/aquienalata (C)
 https://t.me/archlinuxgroup  
 https://t.me/arduinobr  
 https://t.me/assuntostech (C)  
+https://t.me/audiobookgram (C)  
 https://t.me/autociencia (C)  
 https://t.me/automacaopython  
 https://t.me/avidadegabs (C)  
@@ -178,6 +179,7 @@ https://t.me/CodingNews (C)
 https://t.me/codingsnap (C)  
 https://t.me/codingtherightway  
 https://t.me/cointelegraph (C)  
+https://t.me/colt45acp (C)  
 https://t.me/combotchat  
 https://t.me/combotnews (C)  
 https://t.me/computer_science_and_programming (C)  
@@ -207,7 +209,9 @@ https://t.me/cursopythondcc2020
 https://t.me/cursopythonselenium  
 https://t.me/Cursos_Udemy (C)  
 https://t.me/cursosprogramacao  
+https://t.me/cyberpunkrs (C)  
 https://t.me/CyberSaint57 (C)  
+https://t.me/cyfiles (C)  
 https://t.me/daily1interviewprogram (C)  
 https://t.me/dailyandroid (C)  
 https://t.me/dailycpp (C)  
@@ -246,6 +250,7 @@ https://t.me/devstocantins
 https://t.me/devstream_publicacoes (C)  
 https://t.me/devstream_vagas (C)  
 https://t.me/DicasChat  
+https://t.me/dicasinfo (C)  
 https://t.me/dicasjs (C)  
 https://t.me/DicasProgramacao (C)  
 https://t.me/DicasTelegram (C)  
@@ -258,6 +263,7 @@ https://t.me/djangobrasil
 https://t.me/djei282ipwmwh2  
 https://t.me/DojoRio  
 https://t.me/dotheopposite (C)  
+https://t.me/dotnetbr  
 https://t.me/Dr_Paulo_Mendes_Jr_Telegram (C)  
 https://t.me/dragonmachinedreams (C)  
 https://t.me/durov (C)  
@@ -285,6 +291,7 @@ https://t.me/ethfdsgroup
 https://t.me/ethicalhackx (C)  
 https://t.me/ethicalhackxcom  
 https://t.me/exploit_hacker_group  
+https://t.me/exploithub (C)  
 https://t.me/ExpressoesRegulares  
 https://t.me/falagomex (C)  
 https://t.me/fb_hacking (C)  
@@ -352,6 +359,7 @@ https://t.me/GERACAOMANCHETE
 https://t.me/Gibis_mais (C)  
 https://t.me/gibise (C)  
 https://t.me/gibiteca (C)  
+https://t.me/GifsLovers (C)  
 https://t.me/GitBrasil  
 https://t.me/githubtrending (C)  
 https://t.me/gnugraf (C)  
@@ -387,8 +395,10 @@ https://t.me/GuiaDev (C)
 https://t.me/guiadodevweb (C)  
 https://t.me/guiafoca  
 https://t.me/GuideGroups (C)  
+https://t.me/habr_eng (C)  
 https://t.me/hackbr  
 https://t.me/hacker_news_feed (C)  
+https://t.me/hackernewslive (C)  
 https://t.me/Hacking_AL (C)  
 https://t.me/Hacking_Burner (C)  
 https://t.me/Hacking_D (C)  
@@ -421,6 +431,7 @@ https://t.me/ideiashacks (C)
 https://t.me/ihateregex  
 https://t.me/illustrations_i (C)  
 https://t.me/ilovecode_bot  
+https://t.me/infocomedy (C)  
 https://t.me/InfoLine (C)  
 https://t.me/informaticatotal (C)  
 https://t.me/InformationX (C)  
@@ -558,6 +569,7 @@ https://t.me/oslackjeff
 https://t.me/osprogramadores  
 https://t.me/ouvinteshnc  
 https://t.me/paidcourses (C)  
+https://t.me/papalivros (C)  
 https://t.me/papodesysadmin  
 https://t.me/parceriatotal (C)  
 https://t.me/passionate_coders  
@@ -566,6 +578,7 @@ https://t.me/PauloBezerraCodDev (C)
 https://t.me/pausa_de_codar  
 https://t.me/pentestbrazilchannel (C)  
 https://t.me/pentestbrazilgroup  
+https://t.me/petamigo (C)  
 https://t.me/Phantasm_Lab (C)  
 https://t.me/pinguimcriativo (C)  
 https://t.me/placement_0 (C)  
@@ -720,6 +733,8 @@ https://t.me/real_discount (C)
 https://t.me/realuncopy  
 https://t.me/regexbrasil  
 https://t.me/ReinoDoceh  
+https://t.me/renatonobrega87 (C)  
+https://t.me/ReneGadesx (C)  
 https://t.me/renzoprocast  
 https://t.me/ricos_discussions  
 https://t.me/RobomizChannel (C)  
@@ -758,6 +773,7 @@ https://t.me/Stranger_Hacking_Netflix (C)
 https://t.me/SubsTGX (C)  
 https://t.me/t_python  
 https://t.me/TAndroidAPK (C)  
+https://t.me/tdjuntoemisturado (C)  
 https://t.me/tecgradechat  
 https://t.me/tech_maniacs  
 https://t.me/techconectados (C)  
@@ -837,6 +853,7 @@ https://t.me/vuetifybr
 https://t.me/wagnertaboada (C)  
 https://t.me/wagtail  
 https://t.me/WALLAPPS (C)  
+https://t.me/warezme (C)  
 https://t.me/webdesignfreebies (C)  
 https://t.me/webdev_eng (C)  
 https://t.me/webdevbr  
