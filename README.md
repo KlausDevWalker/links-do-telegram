@@ -2,7 +2,7 @@
 Repositório de compartilhamento de links de grupos e canais do Telegram de assuntos variados.  
  
 #### Status do projeto: ATIVO
-#### Quantidade de links até o momento: 836 (406 grupos e 430 canais)
+#### Quantidade de links até o momento: 888 (427 grupos e 461 canais)
 
 ---
 
@@ -17,6 +17,12 @@ Repositório de compartilhamento de links de grupos e canais do Telegram de assu
 >- `*a *python`
 >- `*b *c *java`
 >- `*d *e *f *javascript`
+
+\- **UPDATE**: Por tentativa e erro acabei descobri uma "sintaxe" que mostra ainda mais resultados que antes:  
+> `assunto%X[*Y][*Z]`, onde `X/Y/Z` são caracteres de `a` a `z` e/ou de `0` a `9` e `assunto` a palavra chave que você quer encontrar. Exemplos: 
+>- `python%a`
+>- `java%b%c`
+>- `javascript%d%e%f`
 
 ---
 
@@ -130,6 +136,7 @@ https://t.me/BR_Telegram (C)
 https://t.me/brainpowerbr (C)  
 https://t.me/Brasil_Telegram  
 https://t.me/BrasilLinux  
+https://t.me/btsreactions7 (C)  
 https://t.me/buzzwordtech  
 https://t.me/C_user  
 https://t.me/C0D3BA5E (C)  
@@ -141,6 +148,7 @@ https://t.me/CanalGemeasdoingles (C)
 https://t.me/canaloficinadanet (C)  
 https://t.me/canalrenova (C)  
 https://t.me/Canaltech_Oficial (C)  
+https://t.me/CapitalKadessa  
 https://t.me/cartasdeamor (C)  
 https://t.me/cas_discussion  
 https://t.me/catalogo_whatsapp_e_telegram  
@@ -276,6 +284,7 @@ https://t.me/electronJs_BR
 https://t.me/Eletronica_em_foco  
 https://t.me/EmpregosTIBrasil (C)  
 https://t.me/EMULADOR (C)  
+https://t.me/EndinessCompendium (C)  
 https://t.me/eng_comp_a  
 https://t.me/engenharia_da_computacao  
 https://t.me/enGroupHelp (C)  
@@ -329,6 +338,7 @@ https://t.me/ForkJavaScript (C)
 https://t.me/ForkMachineLearning (C)  
 https://t.me/ForkPHP (C)  
 https://t.me/ForkPython (C)  
+https://t.me/ForkReactJS (C)  
 https://t.me/ForkRegExp (C)  
 https://t.me/Free_udemy (C)  
 https://t.me/FreebiesGlobal (C)  
@@ -429,12 +439,15 @@ https://t.me/i_know_python (C)
 https://t.me/ico_ton_telegram (C)  
 https://t.me/ideiashacks (C)  
 https://t.me/ihateregex  
+https://t.me/iiCr7l (C)  
 https://t.me/illustrations_i (C)  
 https://t.me/ilovecode_bot  
+https://t.me/imersaonodereactnative (C)  
 https://t.me/infocomedy (C)  
 https://t.me/InfoLine (C)  
 https://t.me/informaticatotal (C)  
 https://t.me/InformationX (C)  
+https://t.me/infoweb_react  
 https://t.me/infytQ235pm  
 https://t.me/infytq23rd2python (C)  
 https://t.me/infytqliveans  
@@ -446,6 +459,7 @@ https://t.me/irlandaehnois
 https://t.me/ITDublin  
 https://t.me/itnetworkingbrazil  
 https://t.me/Jackchannel (C)  
+https://t.me/java_codings (C)  
 https://t.me/java_programming_concepts (C)  
 https://t.me/java_script_world (C)  
 https://t.me/JavaBotsApi  
@@ -472,10 +486,12 @@ https://t.me/justpython
 https://t.me/kdebrasil  
 https://t.me/KdeBrasilDesenvolvimento  
 https://t.me/kdeneon  
+https://t.me/Knifereactions (C)  
 https://t.me/komunidade  
 https://t.me/Koolac_En (C)  
 https://t.me/kotatochat  
 https://t.me/kotatogram (C)  
+https://t.me/kpopstickersss (C)  
 https://t.me/KuCoin_Futures_TG  
 https://t.me/KuCoin_Telegram_Competition  
 https://t.me/learn_hacking_ethical (C)  
@@ -516,6 +532,8 @@ https://t.me/MangasGram (C)
 https://t.me/Manjaro  
 https://t.me/manualdousuario (C)  
 https://t.me/maratonabrasil  
+https://t.me/mariamre (C)  
+https://t.me/matehackers (C)  
 https://t.me/materiaisdeidiomas (C)  
 https://t.me/mba_books (C)  
 https://t.me/MCTime (C)  
@@ -535,6 +553,7 @@ https://t.me/MundoTech (C)
 https://t.me/MundoTechBR (C)  
 https://t.me/musicasdosanos80s  
 https://t.me/myanygroups (C)  
+https://t.me/myreactgifs (C)  
 https://t.me/NarutogrupoBR  
 https://t.me/nest4code (C)  
 https://t.me/netflix_hindi_web_series (C)  
@@ -564,12 +583,14 @@ https://t.me/oinimigo
 https://t.me/olhardigitalnews (C)  
 https://t.me/omgubuntu (C)  
 https://t.me/OnePiece_Brasil  
+https://t.me/only_React (C)  
 https://t.me/opencv_python_cpp (C)  
 https://t.me/oslackjeff  
 https://t.me/osprogramadores  
 https://t.me/ouvinteshnc  
 https://t.me/paidcourses (C)  
 https://t.me/papalivros (C)  
+https://t.me/papo_de_dev  
 https://t.me/papodesysadmin  
 https://t.me/parceriatotal (C)  
 https://t.me/passionate_coders  
@@ -728,7 +749,37 @@ https://t.me/quarentenadevgrupo
 https://t.me/queroserninja (C)  
 https://t.me/r_pythongroup (C)  
 https://t.me/ransomwarebr  
+https://t.me/react_42jobs (C)  
+https://t.me/react_dev  
+https://t.me/React_en  
+https://t.me/react_js_en  
+https://t.me/react_native_en  
+https://t.me/react_nodeJS_angular (C)  
+https://t.me/react_world (C)  
+https://t.me/React_Youtube (C)  
+https://t.me/reactbrazil  
+https://t.me/reactcaicara  
+https://t.me/ReactCod3rCurso (C)  
+https://t.me/reaction_os (C)  
+https://t.me/reactiongifes (C)  
+https://t.me/Reactiongifsforreasons (C)  
+https://t.me/reactioontrading  
+https://t.me/reactive_vertx (C)  
 https://t.me/reactjs_br  
+https://t.me/reactjsbharat  
+https://t.me/reactjsindiahiring (C)  
+https://t.me/reactjsvix
+https://t.me/reactnatal  
+https://t.me/reactnative (C)  
+https://t.me/ReactNativeBr  
+https://t.me/ReactNativeBrGrupo  
+https://t.me/Reactnativeglobal  
+https://t.me/reactnativeworld (C)  
+https://t.me/reactor2chem (C)  
+https://t.me/reactos  
+https://t.me/reactos_br  
+https://t.me/reactquest (C)  
+https://t.me/reactUI
 https://t.me/real_discount (C)  
 https://t.me/realuncopy  
 https://t.me/regexbrasil  
@@ -811,6 +862,7 @@ https://t.me/themeschannel (C)
 https://t.me/themeschat  
 https://t.me/theprogrammingart (C)  
 https://t.me/theprogrammingartgroup  
+https://t.me/this_week_in_react (C)  
 https://t.me/TIdaDepressaoOficial (C)  
 https://t.me/TInaEuropa  
 https://t.me/tiprogramacao  
@@ -852,6 +904,7 @@ https://t.me/vuejsbrasil
 https://t.me/vuetifybr  
 https://t.me/wagnertaboada (C)  
 https://t.me/wagtail  
+https://t.me/walaare (C)  
 https://t.me/WALLAPPS (C)  
 https://t.me/warezme (C)  
 https://t.me/webdesignfreebies (C)  
@@ -862,7 +915,9 @@ https://t.me/WeirdMachines (C)
 https://t.me/WhatsApp_Stickers (C)  
 https://t.me/whitehat (C)  
 https://t.me/wildriftBr_asil  
+https://t.me/willreactinscritos  
 https://t.me/windowmanagerbrasil  
+https://t.me/wipreact  
 https://t.me/wizardcfc (C)  
 https://t.me/wmawesome  
 https://t.me/worthfightingfor_telegram (C)  
@@ -871,7 +926,9 @@ https://t.me/WPTelegramChat
 https://t.me/wwwdev (C)  
 https://t.me/xadrezTlgr (C)  
 https://t.me/xdanews (C)  
+https://t.me/xxxsnippets (C)  
 https://t.me/xyz40D9max (C)  
+https://t.me/y_reaction (C)  
 https://t.me/yasartecholegend  
 https://t.me/year_progress_channel (C)  
 https://t.me/yegor256news (C)  
@@ -879,6 +936,7 @@ https://t.me/yiibrasil
 https://t.me/yofreesamples (C)  
 https://t.me/YourSmartyBro (C)  
 https://t.me/Zabbix_in_Telegram (C)  
+https://t.me/zalaxSHortVids (C)  
 https://t.me/ZbxTg  
 https://t.me/ZealPy (C)  
 
